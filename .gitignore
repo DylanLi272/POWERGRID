@@ -1,0 +1,7 @@
+*.png
+*.jpg
+/bin
+.classpath
+.DS_Store
+.project
+.settings/
