@@ -1,0 +1,42 @@
+Las Vegas|B|0|1 2 3 4 5 6
+Los Angeles|B|1|0 4 5
+Phoenix|B|2|0 4 6
+Salt Lake City|B|3|0 5 6 36 38
+San Diego|B|4|0 1 2
+San Francisco|B|5|0 1 3 36 40
+Santa Fe|B|6|0 2 3 22 23 24 27 38
+Atlanta|G|7|11 12 18 20 21 
+Jacksonville|G|8|12 13 21 26
+Miami|G|9|13
+Norfolk|G|10|11 34
+Raleigh|G|11|7 10 12 15 33
+Savannah|G|12|7 8 11
+Tampa|G|13|8 9
+Chicago|Y|14|15 16 19 20 24 30 39
+Cincinnati|Y|15|11 14 18 20 30 33
+Duluth|Y|16|14 17 19 30
+Fargo|Y|17|16 19 35
+Knoxville|Y|18|7 15
+Minneapolis|Y|19|14 16 17 35 37 39 
+St. Louis|Y|20|7 14 15 24 25
+Birningham|R|21|7 8 25 26
+Dallas|R|22|6 23 25 26 27
+Houston|R|23|6 22 26
+Kansas City|R|24|6 14 20 25 27 38 39
+Memphis|R|25|20 21 22 24 26 27
+New Orleans|R|26|8 21 22 23 25
+Oklahoma City|R|27|6 22 24 25
+Boston|W|28|31
+Buffalo|W|29|30 31 33
+Detroit|W|30|14 15 16 29 33
+New York|W|31|28 29 32
+Philadelphia|W|32|31 34
+Pittsburgh|W|33|11 15 29 30 34
+Washington D.C.|W|34|10 32 33
+Billings|P|35|17 19 36 37 41
+Bosie|P|36|3 5 35 37 40 41
+Cheyenne|P|37|19 35 36 38 39
+Denver|P|38|3 6 24 37
+Omaha|P|39|14 19 24 37
+Portland|P|40|5 36 41
+Seattle|P|41|35 36 40

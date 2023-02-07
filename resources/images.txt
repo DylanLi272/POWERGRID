@@ -1,0 +1,14 @@
+board board
+0 red
+1 blue
+2 green
+3 purple
+left arrowL
+right arrowR
+up arrowU
+down arrowD
+background background
+refill refill
+bureaucracy bureaucracy
+check check
+money m1
